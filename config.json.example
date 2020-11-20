@@ -1,0 +1,5 @@
+
+{
+    "token": "Your Discord bot token",
+    "prefix": "The prefix you want"
+}

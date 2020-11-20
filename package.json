@@ -1,0 +1,22 @@
+{
+  "name": "isitup",
+  "version": "1.0.0",
+  "description": "A discord bot who monitor a server for know if it's up or down",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RootMestudy/IsItUp.git"
+  },
+  "author": "RootMeStudy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RootMestudy/IsItUp/issues"
+  },
+  "homepage": "https://github.com/RootMestudy/IsItUp#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
